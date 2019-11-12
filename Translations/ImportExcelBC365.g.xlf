@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ImportExcelBC365">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 975211486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Agents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 975211486 - Field 4255740090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agent No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Agents - Field Agent No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 975211486 - Field 1131267218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agent Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Agents - Field Agent Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 975211486 - Field 2227463872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agent Venue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Agents - Field Agent Venue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 975211486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 369739352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agent Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AgentImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 369739352 - Control 989751795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AgentImport - Control FileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 369739352 - Control 4104898276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AgentImport - Control SheetName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 369739352 - Control 349744133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Row to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AgentImport - Control RowstoSkip - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
